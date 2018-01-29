@@ -1,5 +1,5 @@
 # Fractals Affiliate Widget
-Sell Fractal Filters [www.getfractals.com](www.getfractals.com) on your website, and start making money right away. Want to join or have questions? Email me at nikk@getfractals.com
+Sell Fractal Filters [www.getfractals.com](https://www.getfractals.com) on your website, and start making money right away. Want to join or have questions? Email me at nikk@getfractals.com
 ## Get started
 Include this button on your page, where you want it to appear. When the user clicks on this button, they'll open a popup which will take them to the ```www.getfractals.com``` checkout, with your ref code and the # of items they'd like to purchase.
 ```
