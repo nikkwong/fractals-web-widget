@@ -3,7 +3,7 @@ Sell Fractal Filters [www.getfractals.com](https://www.getfractals.com) on your 
 ## Get started
 Include the following button on your page, where you want it to appear. When the user clicks on this button, they'll open a popup which will take them to the ```www.getfractals.com``` checkout, with your ref code and the # of items they'd like to purchase.
 ```
-    <button id='ffpopupbtn'>Purchase</button>
+<button id='ffpopupbtn'>Purchase</button>
 ```
 
 Copy and paste the following onto every page on which the ```<button id='ffpopupbtn'>Purchase</button>``` appears, ideally before the ```</body>``` tag.
