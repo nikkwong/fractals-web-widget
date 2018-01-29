@@ -1,14 +1,18 @@
 # Fractals Affiliate Widget
 Sell Fractal Filters [www.getfractals.com](https://www.getfractals.com) on your website, and start making money right away. Want to join or have questions? Email me at nikk@getfractals.com
 ## Get started
-Include the following button on your page, where you want it to appear. When the user clicks on this button, they'll open a popup which will take them to the ```www.getfractals.com``` checkout, with your ref code and the # of items they'd like to purchase.
+Include the following button on your page, where you want it to appear. When the user clicks on this button, they'll be shown a popup which will take them to ```www.getfractals.com/checkout```, with your ref code in the query path.
 ```
 <button id='ffpopupbtn'>Purchase</button>
 ```
 
-Copy and paste the following onto every page on which the ```<button id='ffpopupbtn'>Purchase</button>``` appears, ideally before the ```</body>``` tag.
-*IMPORTANT*—make sure to replace the ref code at the bottom with the ref code we've agreed upon: ```window.ffref="YOUR_REF_CODE_HERE"```, should become, for example, ```window.ffref="ben"```
-Feel free to send me an email to check out if it's set up correctly or not. That's it!
+Copy and paste the following code onto every page on which the ```<button id='ffpopupbtn'>Purchase</button>``` appears, ideally before the ```</body>``` tag.
+*IMPORTANT*—make sure to replace the ref code at the bottom with the ref code we've agreed upon: ```window.ffref="YOUR_REF_CODE_HERE"```, should become, for example, ```window.ffref="ben"```. That's it!
+
+If you use Wordpress or a flavor of some CMS, feel free to email me and I'll help you set it up. 
+
+### Tracking technology
+You'll receive attribution for sales that you've referred even if the sale is made in a subsequent browsing session. For example, if you refer someone who then decides to purchase a week later, you'll still receive your commission.
 
 ```
 <script>
